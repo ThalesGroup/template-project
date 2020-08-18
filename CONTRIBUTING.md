@@ -1,22 +1,29 @@
-Describe here all the rules to respect by your contributors
+Describe in this file 
+- team organization, roles, communication 
+- the rules to be respected by your future contributors
 
 # Contributing guidelines
 
-## Pull Request Checklist
+## Team organization
 
-## How to become a contributor and submit your own code
+### Roles
+
+## How to become a contributor
 
 ### Contributor License Agreements
 
 ### Contributing code
 
-#### License
+## Pull Request Checklist
 
-Include a license at the top of new files.
+### License
 
-#### Coding style
+### Coding style
+
+### Testing
 
 #### Running sanity check
 
 #### Running unit tests
 
+### Issues management
