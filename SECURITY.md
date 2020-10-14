@@ -37,7 +37,7 @@ Define how you intend to update users about new security vulnerabilities as they
 
 ## Security related configuration.
 
-Settings users should consider that would impact the security posture of deploying this project, such as HTTPS, authorisation and many others.
+Settings users should consider that would impact the security posture of deploying this project, such as HTTPS, authorization and many others.
 
 ## Known security gaps & future enhancements.
 
