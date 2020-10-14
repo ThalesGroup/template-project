@@ -5,7 +5,7 @@ Describe here all the security policies in place on this repository to help your
 :warning:**Never store credentials as code/config in a GitHub repository** 
 - Block sensitive data being pushed to GitHub by git-secrets or its likes as a git pre-commit hook
 - Audit for slipped secrets with dedicated tools
-- Use ENV variables for secrets in CI/CD and secret managers in production
+- Use environment variables for secrets in CI/CD (e.g. GitHub Secrets) and secret managers in production
 
 # Security Policy
 
