@@ -1,10 +1,10 @@
 # Thales Open Source Template Project
 
-Template for creating a new project in the [Thales GitHub organization](https://github.com/ThalesGroup). 
+Template for creating a new project in the [Thales GitHub organization](https://github.com/ThalesGroup).
 
 Each Thales OSS project repository **MUST** contain the following files at the root:
 
-- a `LICENSE` which has been chosen in accordance with legal department depending on your needs 
+- a `LICENSE` which has been chosen in accordance with legal department depending on your needs
 
 - a `README.md` outlining the project goals, sponsoring sig, and community contact information, [GitHub tips about README.md](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes)
 
@@ -16,9 +16,7 @@ Below is an example of the common structure and information expected in a README
 
 **Please keep this structure as is and only fill the content for each section according to your project.**
 
-If you need assistance or have question, please contact oss@thalesgroup.com 
-
-
+If you need assistance or have question, please contact oss@thalesgroup.com
 
 ## Get started
 

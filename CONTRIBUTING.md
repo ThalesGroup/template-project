@@ -1,5 +1,6 @@
-Describe in this file 
-- team organization, roles, communication 
+Describe in this file:
+
+- team organization, roles, communication
 - the rules to be respected by your future contributors
 
 # Contributing guidelines
